@@ -6,6 +6,10 @@
 ██████╔╝ ██║███████║██║     ██║  ██║╚██████╔╝███████╗██║██████╔╝╚██████╔╝███████║
 ╚═════╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝╚═════╝  ╚═════╝ ╚══════╝
 ```
+
+<img src="docs/honeycloud.png" width=303 height=124>
+
+
 # 🐝 HoneyCloud-Platform
 
 Automated DevSecOps platform for deploying honeypots in a secure cloud environment based on Kubernetes, Terraform and OpenStack.
