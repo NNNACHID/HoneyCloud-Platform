@@ -7,7 +7,7 @@
 ╚═════╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝╚═════╝  ╚═════╝ ╚══════╝
 ```
 
-<img src="docs/honeycloud.png" width=303 height=420>
+<img src="docs/honeycloud.png" width=300 height=390>
 
 
 # 🐝 HoneyCloud-Platform
